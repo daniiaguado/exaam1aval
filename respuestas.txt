@@ -4,3 +4,4 @@
 4 mkdir si
 5 :mv si.txt si
 6: cat alumnos.txt | grep "-"
+7: cat alumnos.txt | grep Gonzalez | wc -l
