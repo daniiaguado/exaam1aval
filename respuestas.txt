@@ -8,3 +8,4 @@
 8 :  sed 's/Vicente/Pepe/' alumnos.txt
 9 cat alumnos.txts | head -2010 | tail -2019
 10 cat alumnos.txt | head -j
+11 : du -hs
